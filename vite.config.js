@@ -3,6 +3,6 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/deploying-vite-project-french-conjugation/",
+  base: "/french-conjugation/",
   plugins: [vue()],
 });
